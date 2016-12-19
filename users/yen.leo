@@ -192,7 +192,7 @@
 <v t="yen.20161105200234.1"><vh>@edit bgroup.txt</vh></v>
 </v>
 <v t="leo.20161219140736.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20161219140736.3"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161219140736.3" a="E"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
 <v t="leo.20161219140736.4"><vh>old:封面投影片內容</vh></v>
 <v t="leo.20161219140736.5"><vh>new:封面投影片內容</vh></v>
 </v>
